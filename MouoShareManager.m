@@ -20,22 +20,22 @@
 
 
 //微信
-#define Moyou_WechatAppId @"wxd5a72d819ffe9294"
-#define Moyou_WechatAppSecret @"0dfd58d5bde8b89c6ccdef287ee7d962"
+#define Moyou_WechatAppId @""
+#define Moyou_WechatAppSecret @""
 
 //腾讯QQ
 
-#define Moyou_TencentAppId @"1101232472"
-#define Moyou_TencentAppKey @"bsfLprQCGH7ERdDI"
+#define Moyou_TencentAppId @""
+#define Moyou_TencentAppKey @""
 
 //新浪
-#define Moyou_SinaAppKey @"3003510068"
-#define Moyou_SinaAppSecret @"e1612d10d58a7df91c9fab904ec79f53"
-#define Moyou_SinaRedirectURI @"http://www.uusns.com/url/Tencent.htm"
+#define Moyou_SinaAppKey @""
+#define Moyou_SinaAppSecret @""
+#define Moyou_SinaRedirectURI @""
 
 //第三方分享的账号
-#define Moyou_ShareSDKAppKey @"16295849ec968"
-#define Moyou_ShareAppSecret @"1d73bb549b35b290935d2ff1bad28d9f"
+#define Moyou_ShareSDKAppKey @""
+#define Moyou_ShareAppSecret @""
 
 @implementation MouoShareManager
 
